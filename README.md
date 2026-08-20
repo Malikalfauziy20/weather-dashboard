@@ -4,6 +4,26 @@ Weather Dashboard adalah aplikasi web sederhana untuk mencari dan menampilkan in
 
 Aplikasi mengambil data cuaca secara real-time menggunakan REST API, kemudian mengolah response JSON menggunakan JavaScript dan menampilkannya dalam antarmuka yang modern, minimalis, dan responsive.
 
+## Screenshots
+
+### Dashboard Cuaca
+![Dashboard Cuaca](screenshots/DASHBOARDCUACA.jpg)
+
+### Hasil Pencarian
+![Hasil Pencarian](screenshots/hasilpencarian.jpg)
+
+### Hasil Pencarian (Dark Mode)
+![Hasil Pencarian Dark Mode](screenshots/hasilpencariandarkmode.jpg)
+
+### Tampilan Mobile (Dark Mode)
+![Mobile Dark](screenshots/MOBILEDARK.jpg)
+
+### Prakiraan Cuaca Besok & History
+![Prakiraan Cuaca Besok dan History](screenshots/PRAKIRAANCUACABESOK&HISTORY.jpg)
+
+### Tampilan Pencarian
+![Tampilan Search](screenshots/TAMPILANSEARCH.jpg)
+
 ## Features
 
 - Search weather by city
